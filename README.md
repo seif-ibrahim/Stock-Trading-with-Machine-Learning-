@@ -1,2 +1,3 @@
 # Stock-Trading-with-Machine-Learning-
-Stock Trading with Machine Learning and there is a note describe every thing 
+Stock Trading with Machine Learning with some of datasets and it predict the close price from the other colums 
+just dont forget to download the librarys
